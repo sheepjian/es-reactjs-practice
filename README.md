@@ -1,12 +1,12 @@
-## es6-react-boilerplate
+## es6-react-tutroail
 
-To use, first download the repository,then do 
+To use, first git clone the repository,then do 
 
 <code>$ npm install</code> 
 
 on your terminal.
-After that, either navigate to the file in your browser, or start a http server like this
+After that, start a browser-sync server like this
 
-<code> $ python -m SimpleHTTPServer 3000</code> 
+<code> gulp </code> 
 
-and go to localhost:3000 to see the project.
+Now you can enjoy the coding and watch immediate change in the browser.
